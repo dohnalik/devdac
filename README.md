@@ -279,7 +279,6 @@ cmd:
 1 - unit is ready to cut the power in 10 seconds
 
 #### DEVDAC VERSION
-(from Streamer Software to DevDAC)
 
 ```shell
 [getBoardVersion]{}
@@ -290,7 +289,6 @@ cmd:
 ```
 
 #### STREAMER VERSION
-(from DEVDAC to Streamer Software)
 
 ```shell
 [getStreamerVersion]{}
@@ -298,4 +296,8 @@ cmd:
 
 ```shell
 [pushStreamerVersion]{version:1223}
+```
+
+```shell
+[setStreamerVersion]{version:1223}
 ```
