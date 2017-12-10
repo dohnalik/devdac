@@ -275,8 +275,8 @@ Is pushed from the DevDAC to Streamer Software to signal user has switched off t
 ```
 cmd:
 
-0 - start shutting down - either user pressed a hardware power button or is shutting it down thru the Streamer Software
-1 - unit is ready to cut the power in 10 seconds
+	0 - start shutting down - either user pressed a hardware power button or is shutting it down thru the Streamer Software
+	1 - unit is ready to cut the power in 10 seconds
 
 #### DEVDAC VERSION
 
