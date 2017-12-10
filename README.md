@@ -251,7 +251,7 @@ levelDSD:
 boot:
 
 	0   note defined,	
-	1   puts CM3 into USB bootloader mode where new Streamer Software image can uploaded in over USB	
+	1   puts CM3 into USB bootloader mode where new Streamer Software image can be uploaded over USB	
 	
 TODO:
 define exit from bootloader mode thru I2C-1 command from Streamer Software to DevDAC as USB CDC channel has been disconected in bootloader mode. 
